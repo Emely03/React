@@ -1,0 +1,3 @@
+*PWA = Aplicación web pogresiva
+npx create-react-app primera: Instalar el paquete
+**Despues de instalar la carpeta abro la carpeta que se creo y abro la consola en esta carpeta y npm start para abrirlo
